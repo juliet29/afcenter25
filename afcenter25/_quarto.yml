@@ -51,5 +51,7 @@ format:
       - cosmo
       - brand
 
+execute:
+  freeze: auto
 
 
