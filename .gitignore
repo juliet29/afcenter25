@@ -10,5 +10,5 @@ wheels/
 .venv
 .quarto
 .DS_store
-
+/_book/
 

@@ -9,11 +9,11 @@ about:
           href: mailto:info@africancenterdev.org
           text: info@africancenterdev.org
         - icon: globe
-          href: www.africancenterdev.org
+          href: https://africancenterdev.org
           text: www.africancenterdev.org
         - icon: whatsapp
+          href: https://wa.link/0x7lpo
           text: +234(0)9151195616
-          href: wa.link/0x7lpo
         # - icon: pin-map
         #   text: No.4 Boke Close off Sakono Crescent, Wuse 2, Abuja, Nigeria
 ---

@@ -32,11 +32,13 @@ book:
       - icon: send
         href: mailto:info@africancenterdev.org
       - icon: globe
-        href: www.africancenterdev.org
+        href: https://africancenterdev.org
       - icon: whatsapp
-        href: wa.link/0x7lpo
+        href: https://wa.link/0x7lpo
+    center:
       - icon: pin-map
         text: No.4 Boke Close off Sakono Crescent, Wuse 2, Abuja, Nigeria
+
 
 
 
