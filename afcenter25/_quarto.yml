@@ -1,0 +1,55 @@
+project:
+  type: book
+
+
+
+book:
+  title: African Center Annual Report 2023 - 2024 
+  subtitle: African Center For Governance Asset Recovery And Sustainable Development
+  chapters:
+    - index.qmd
+    - part: "Preface"
+      chapters: 
+        - board_statement.qmd
+        - exec_statement.qmd
+    - part: "Highlights from the Year 2024: Core Areas of Engagement"
+      chapters: 
+        - strengthen.qmd
+        - return.qmd
+        - implement.qmd
+    - part: "Partners"
+      chapters: 
+        - partners.qmd
+        - abbreviations.qmd
+
+    # - summary.qmd
+    # - references.qmd
+  sidebar: 
+    logo: "images/logo.svg"
+    background: "#3D669B"
+  page-footer: 
+    right: 
+      - icon: send
+        href: mailto:info@africancenterdev.org
+      - icon: globe
+        href: www.africancenterdev.org
+      - icon: whatsapp
+        href: wa.link/0x7lpo
+      - icon: pin-map
+        text: No.4 Boke Close off Sakono Crescent, Wuse 2, Abuja, Nigeria
+
+
+
+number-depth: 5
+toc-depth: 5
+
+format:
+  html:
+    theme:
+      - cosmo
+      - brand
+  pdf:
+    documentclass: scrreprt
+
+
+

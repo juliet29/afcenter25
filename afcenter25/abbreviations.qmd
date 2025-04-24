@@ -1,0 +1,70 @@
+# List of Abbreviations {.unnumbered}
+
+|  |                         |
+|----------------|---------------------------------------------------------------------------------------------------|
+| African Center | African Center for Governance, Asset Recovery and Sustainable Development |
+AfDB           | African Development Bank                                                                          |
+| AML/CFT/CPF    | Anti-money laundering, counter-financing of terrorism and countering proliferation financing      |
+| ANEEJ          | Africa Network for Environmental and Economic Justice                                             |
+| ARMU           | Asset Recovery Management Unit                                                                    |
+| AUCPCC         | African Union Convention Preventing and Combating Corruption                                      |
+| CAU            | Central Authority Unit                                                                            |
+| CCB            | Code of Conduct Bureau                                                                            |
+| CFT            | Countering the financing of terrorism                                                             |
+| CFRN           | Constitution of the Federal Republic of Nigeria                                                   |
+| CIFAR          | Civil Forum for Asset Recovery                                                                    |
+| CIN            | Compliance Institute of Nigeria                                                                   |
+| CLA            | Commonwealth Lawyers Association                                                                  |
+| CLE            | Council of Legal Education                                                                        |
+| CSO            | Civil Society Organization                                                                        |
+| DECFI          | Digital Evidence and Cyber Forensics Institute                                                    |
+| DNFBPs         | Designated Non-Financial Businesses and Professions                                               |
+| EFCC           | Economic and Financial Crime Commission                                                           |
+| FATF           | Financial Action Task Force                                                                       |
+| FCDO UK        | Foreign, Commonwealth and Development Office                                                      |
+| FGD            | Focus Group Discussion                                                                            |
+| FIRS           | Federal Inland Revenue Service                                                                    |
+| FMOJ           | Federal Ministry of Justice                                                                       |
+| FOI            | Freedom of Information                                                                            |
+| FRN            | Federal Republic of Nigeria                                                                       |
+| GFAR           | Global Forum on Asset Recovery                                                                    |
+| GSDEC          | Global South Dialogue on Economic Crime                                                           |
+| GIABA          | Intergovernmental Action Group against Money Laundering and Financing of Terrorism in West Africa |
+| HAGF           | Honourable Attorney-General of Federation                                                         |
+| IACC           | International Anti-Corruption Conference                                                          |
+| ICPC           | Independent Corrupt Practices and Other Related Offences Commission                               |
+| IFF            | Illicit Financial Flows                                                                           |
+| IIJ            | International Institute for Justice and Rule of Law                                               |
+| IMF            | International Monetary Fund                                                                       |
+| KYC            | Know Your Customer                                                                                |
+| LEA            | Law Enforcement Agencies                                                                          |
+| MANTRA         | Monitoring of Recovered Assets through Transparency and                                           |
+| MCO            | Mining Cadastre Office                                                                            |
+| MDA            | Ministries, Departments and Agencies                                                              |
+| MER            | Mutual Evaluation Report                                                                          |
+| MLA            | Mutual Legal Assistance                                                                           |
+| MLPP           | Money Laundering Prohibition and Prevention                                                       |
+| MOU            | Memorandum of Understanding                                                                       |
+| NBA            | Nigeria Bar Association                                                                           |
+| NBA-AMLC       | NBA Anti-Money Laundering Committee                                                               |
+| NDLEA          | National Drug Law Enforcement Agency                                                              |
+| NFIU           | Nigerian Financial Intelligence Unit                                                              |
+| NIALS          | Nigerian Institute of Advanced Legal Studies                                                      |
+| NGOs           | Non-Governmental Organizations                                                                    |
+| NSA            | Non-State Actors                                                                                  |
+| NPF            | Nigeria Police Force                                                                              |
+| POCA           | Proceeds of Crime Act                                                                             |
+| RAR            | Risk Assessment Report                                                                            |
+| RPC            | Rules of Professional Conduct                                                                     |
+| RUSI           | Royal United Services Institute                                                                   |
+| SDGs           | Sustainable Development Goals                                                                     |
+| STAR           | Stolen Asset Recovery Initiative                                                                  |
+| TI             | Transparency International                                                                        |
+| UK             | United Kingdom                                                                                    |
+| UNCAC          | United Nations Convention against Corruption                                                      |
+| UNODC          | United Nations Office on Drugs and Crime                                                          |
+| UNTOC          | United Nations Transnational Organized Crime                                                      |
+| USA            | United States of America                                                                          |
+| USDOJ          | United States Department of Justice                                                               |
+
+: {.hover}

@@ -1,0 +1,70 @@
+
+
+# Partners and Collaborators {.unnumbered}
+
+The African left has partnered with global, bilateral, and domestic organizations in the course of its work. Key partners include:
+
+* MacArthur Foundation  
+* IBLF Global  
+* Global South Dialogue on Economic Crime (GSDEC)  
+* United Nations Office on Drugs and Crime (UNODC)  
+* International Institute for Justice and Rule of Law, Malta (IIJ)  
+* Commonwealth Law Association (CLA)  
+* Stolen Asset Recovery (StAR) Initiative  
+* African Development Bank (AfDB)   
+* Royal United Services Institute (RUSI)  
+* UNCAC Coalition  
+* CLEEN Foundation  
+* Federal Ministry of Justice (FMOJ)  
+* Digital Evidence and Cyber Forensics Institute (DECFI)  
+* Council of Legal Education (CLE)  
+* Nigerian Institute of Advanced Legal Studies (NIALS)  
+* Compliance Institute of Nigeria (CIN)  
+* HEDA Resource left  
+* Africa Network for Environment and Economic Justice (ANEEJ)  
+* Nigeria Bar Association (NBA)  
+* Intergovernmental Action Group against Money Laundering (GIABA)  
+* Foreign, Commonwealth and Development Office (FCDO UK)  
+* Juritrust left for Socio-Legal Research and Documentation
+
+#### **Memorandum of Understanding** 
+
+We have signed  a memorandum of understanding with the following organizations:
+
+* Global South Dialogue on Economic Crime (GSDEC)  
+* Nigerian Institute of Advanced Legal Studies (NIALS)  
+* Digital Evidence and Cyber Forensics Institute (DECFI)  
+* Africa Network for Environment and Economic Justice (ANEEJ) 
+* IBLF Global 
+
+
+::: {layout-nrow=5 layout-ncol=2 layout-valign="bottom"}
+![MacArthur Foundation ](images/mous/mcarthur.png){width=300 fig-align="left" .lightbox}
+
+![Nigerian Institute of Advanced Legal Studies](images/mous/nias.png){width=300 fig-align="left" .lightbox}
+
+
+![CLEEN Foundation](images/mous/cleen.png){width=200 fig-align="left" .lightbox}
+
+![Commonwealth Law Association](images/mous/commonwealth.png){width=300 fig-align="left" .lightbox}
+
+![Digital Evidence and Cyber Forensics Institute](images/mous/digital.png){width=300 fig-align="left" .lightbox}
+
+
+
+![Global South Dialogue on Economic Crime ](images/mous/gsdec.png){width=300 fig-align="left" .lightbox}
+
+![International Institute for Justice and Rule of Law](images/mous/iiji.png){width=150 height=150 fig-align="left" .lightbox}
+
+![Africa Network for Environment and Economic Justice](images/mous/aneej.png){width=300 fig-align="left" .lightbox}
+
+![Council of Legal Education](images/mous/cle.png){width=300 fig-align="left" .lightbox}
+
+![Nigeria Bar Association](images/mous/nba.png){width=300 height=100 fig-align="left" .lightbox}
+
+
+
+<!-- ![GIZ](images/mous/giz.png){width=300 fig-align="left" .lightbox} -->
+<!-- ![](images/mous/ukid.png){width=300 fig-align="left" .lightbox}
+![](images/mous/uncac.png){width=300 fig-align="left" .lightbox} -->
+:::

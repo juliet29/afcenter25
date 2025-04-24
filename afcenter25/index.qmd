@@ -1,0 +1,71 @@
+---
+about:
+    id: hero-heading
+    template: jolla
+    image: images/logo.svg
+    image-shape: rectangle
+    links:
+        - icon: send
+          href: mailto:info@africancenterdev.org
+          text: info@africancenterdev.org
+        - icon: globe
+          href: www.africancenterdev.org
+          text: www.africancenterdev.org
+        - icon: whatsapp
+          text: +234(0)9151195616
+          href: wa.link/0x7lpo
+        # - icon: pin-map
+        #   text: No.4 Boke Close off Sakono Crescent, Wuse 2, Abuja, Nigeria
+---
+
+:::{#hero-heading}
+:::
+
+
+# About {.unnumbered}
+
+The African Center for Governance, Asset Recovery, and Sustainable Development (the African Center) is an independent civil society organization headquartered in Abuja, Nigeria. The Center works with national governments, international and regional organizations, and non-governmental organizations to promote good governance, sustainable development, and the rule of law. We work to foster national and international cooperation in the recovery and return of proceeds of corruption and illicit financial flow to fill funding gaps for implementing the SDGs. The African Center shares the view that returning stolen assets will enable countries in the global South, particularly Africa, to build a foundation for prosperity, and good governance.
+
+The African Center fosters national and international cooperation in the recovery and return of the proceeds of criminal activity to enable countries to address inequality, reduce poverty, innovate, and build sustainable partnerships. We aim to promote good governance, sustainable development, and the rule of law. This is achieved through training, research, program management, strategy development, international cooperation, and promoting anti-corruption and anti-money laundering regulatory compliance.
+
+
+### Capacity Statement {.unnumbered}
+
+Since 2022, the African Center has advanced governance, asset recovery transparency, and justice sector accountability. Partnering with global and regional organizations, we have trained legal and financial professionals across Africa in asset tracing and financial crime management.
+
+Our work focuses on anti-corruption, anti-money laundering,  counter-financing of terrorism and countering proliferation financing(AML/CFT/CPF). Collaborating with the Nigerian Bar Association (NBA) and Nigerian Financial Intelligence Unit, we enhance compliance through research, risk assessment, and policy guidance. Our Executive Director serves on key NBA committees to strengthen legal sector compliance.
+
+We support Nigerian agencies in addressing FATF grey list deficiencies through training and international cooperation efforts with the Global South Dialogue on Economic Crime (GSDEC). To sustain research and training, we have agreements with institutions like Nigerian Institute of Advanced Legal Studies (NIALS), Digital Evidence Forensics and Compliance Institute (DEFCI), and the Nigerian Bar Association (NBA).
+
+Our research covers illicit financial flows, justice reforms, and asset recovery, aligning with Agenda 2063. We have published a compendium on anti-corruption best practices and are working with Nigeria’s Ministry of Justice on UN anti-corruption initiatives. Our Open Asset Database maps African asset recovery data.
+
+We partner with UNODC, the World Bank, and the UNCAC Coalition to shape an African-centric asset recovery approach. In collaboration with IBLF Global, we are developing a CSO Advocacy Toolkit under Transparency International’s REAP project and advising the African Development Bank on asset management.
+
+##### **Mission**
+Our mission is to reinforce the links between governance, asset recovery, and sustainable development goals in line with Agenda 2030 and the promotion of the rule of law, strengthening justice institutions, preventing illicit financial flows, recovering stolen assets, and social reuse of stolen assets.
+
+##### **Vision**
+We envision a world free from illicit financial flows, where proceeds of crime are recovered and returned to the victims of corruption to improve livelihood and reduce poverty and inequality. 
+
+## Thematic Objectives {.unnumbered}
+
+![](images/about/thematic_objectives.jpg){width=500 fig-align="center" .lightbox}
+
+### Strengthening Governance and Accountability for Sustainable Development
+
+At the African Center, we are committed to advancing good governance and accountability across Africa by aligning our efforts with the United Nations Sustainable Development Goals (SDGs). Our approach goes beyond policy advocacy. We drive real change by ensuring citizens, especially women, have access to quality education, justice, and economic empowerment tools.
+
+This year, we focused on breaking systemic barriers that hinder inclusive development. Through targeted initiatives, we challenged harmful social norms, expanded economic opportunities, and leveraged technology to address the unique needs of women. By working at the intersection of governance, gender equity, and innovation, we are building stronger, 
+
+### Recovery and Return of Stolen Assets
+
+Under the Asset Recovery theme, the African Center works with national, regional, and international organizations and professional bodies in the private and public sectors to develop clear and comprehensive legal frameworks for recovering the proceeds of all forms of crime and transparently managing the returned assets for the benefit of the victims of these crimes. Our efforts align with Chapter V of the [United Nations Convention against Corruption (UNCAC)](https://www.unodc.org/documents/brussels/UN_Convention_Against_Corruption.pdf), the [African Union Convention on Preventing and Combatting Corruption (AUCPCC)](https://au.int/sites/default/files/treaties/36382-treaty-0028_-_african_union_convention_on_preventing_and_combating_corruption_e.pdf), and the [Common African Position on Asset Recovery (CAPAR).](https://au.int/sites/default/files/newsevents/workingdocuments/43786-wd-42297-doc-COMMON-AFRICAN-POSITION-ON-ASSEST-RECOVERY-ENGLISH-NEWLY-PROOFREAD-1.pdf) The Center’s core objectives are to identify the links between the return of proceeds of crime and sustainable development and to work with countries of the global South to advocate for expedited mechanisms to return stolen assets for the benefit of their citizens.
+
+### Implementation of the United Nations Sustainable Development Goals
+
+At the African Center for Governance and Asset Recovery, we are at the forefront of strengthening asset recovery systems to ensure that stolen wealth is returned and used for the benefit of socio-economic growth. The Center works with development partners and other civil society organizations to ensure the effective implementation of the [United Nations Sustainable Development Goals](https://sdgs.un.org/goals) (UN/SDGs) and the African Union ([AU) Agenda 2063](https://au.int/en/agenda2063/overview). We focus specifically on UN SDG Goal 16 and AU Agenda Goals 11 and 12\. Our aim is to "promote peaceful and inclusive societies for sustainable development, provide access to justice for all, and build effective, accountable, and inclusive institutions at all levels”. The African Center’s work in this thematic area is closely linked to the governance and asset recovery thematic areas.
+
+## Organogram {.unnumbered}
+
+![](images/about/organogram.png){width=500 fig-align="center" .lightbox}
+

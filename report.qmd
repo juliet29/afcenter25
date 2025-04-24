@@ -1,0 +1,70 @@
+---
+title: 2023 - 2024 Annual Report
+subtitle: African Center For Governance Asset Recovery And Sustainable Development
+
+
+author:
+    email: info@africancenterdev.org
+    phone: +234(0)9151195616
+    url: www.africancenterdev.org
+format: html
+toc: true
+
+# format: 
+#     titlepage-pdf:
+#         documentclass: scrbook
+#         classoption: ["oneside", "open=any"]
+#         number-sections: true
+#         toc: true
+#         lof: true
+#         lot: true
+---
+
+# Statement from the Chairman of the Board of Directors
+
+Dear Stakeholders,
+
+As we reflect on the past year, I am both proud and inspired by the resilience and dedication of our organization in promoting good governance and sustainable development in the legal sector. Our mission to promote transparency, accountability, and the rule of law has never been more critical, and I am honoured to present this annual report, which highlights our achievements, challenges, and the path forward.
+However, the challenges we face are significant. The global landscape of democratic governance is evolving, and we must remain vigilant and adaptable. In response, we have fortified our commitment to advocacy and legal support for those who stand against corruption.
+
+Looking ahead, we are excited to embark on new initiatives that will further our impact. We will continue to invest in research and data-driven advocacy, ensuring that our strategies are informed by evidence and best practices. Additionally, we are committed to enhancing our capacity-building programs, as well as  equipping individuals and organizations with the tools they need to combat corruption effectively.
+
+I would like to extend my heartfelt gratitude to our partners, dedicated staff, board members, volunteers, and supporters. Your unwavering commitment and passion for our goals are the driving forces behind our success. Additionally, we would like to welcome our new advisory board members. Together, we are making a difference and will continue to strive for a world where integrity prevails.
+
+As we move forward, let us remain united in our mission. Fighting impunity, money laundering, and financial and organized crimes is not just a challenge; it is an opportunity to build a more just and equitable society for all. Thank you for your continued support and belief in our vision.
+
+Sincerely,
+Jideani Agabaidu
+Chairman of the Board
+African Center for Governance, Asset Recovery and Sustainable Development
+
+
+
+
+# Setting The Course For 2025 - A Year In Review - Juliet Ibekaku-Nwagwu, Founder/Executive Director
+
+As 2024 ends, we reflect on a year of significant achievements and persistent challenges in our fight against illicit financial flows (IFFs) and their  impact on governance and sustainable development across Africa. At the African Center, we remain steadfast in our commitment to promoting transparency, accountability, and good governance, guided by the principles of the United Nations Sustainable Development Goals (UN SDGs), particularly Goal 16, on Peace, Justice and Strong Institutions. We are also guided by the African Union 2063 Agenda, the Common Africa Position on Asset Recovery and the Global Framework on Asset Recovery.
+This past year has underscored the urgent need for our work. It is well documented that corruption, IFFs, and money laundering erode public trust, divert crucial resources from development priorities, and exacerbate inequalities. The intricate web of illicit financial flows, often facilitated by complex transnational networks, deprives nations of vital funds needed to invest in education, healthcare, and infrastructure, hindering progress toward the SDGs. This report details our key activities and accomplishments over the past year in response to this threat. In this annual report - our first - you will read about our impactful research, advocacy efforts, capacity-building programs, and strategic partnerships. We are proud of our progress in contributing to the efforts to remove Nigeria from the Financial Action Task Force (FATF) greylist through collaboration with the Nigeria Legal Professionals. This collaboration led to the drafting of the anti-money laundering risk assessment for the legal sector in Nigeria, the development of an anti-money laundering reporting portal, the drafting of guidance on the role of civil society in asset recovery, the drafting of an asset recovery policy manual for the Federal Ministry of Justice. Finally, this collaboration enabled us to supportAfrican institutions and non-state actors to address weak governance structures. These successes are a testament to the dedication and expertise of our team, the unwavering support of our partners, and the resilience of the communities we serve.
+Significant obstacles remain, including the complexity of cross-border investigations, limited political will, and lack of resources. To overcome these challenges, we must continue to innovate, collaborate, and strengthen our collective efforts.
+Looking ahead, we are committed to deepening our impact by leveraging technology through our open assets database, expanding our reach to new regions, and strengthening collaboration with government agencies. We will continue to champion the principles of transparency and accountability, working tirelessly to ensure that proceeds of criminal activities are recovered and returned to their rightful owners. We invite you to explore this report and learn more about our work. We are deeply grateful to our partners, particularly the MacArthur Foundation, the Foreign and the Commonwealth Development Office (UK FCDO) and German GIZ. Your support is essential to the sustenance of our mission. Our progress over the past months would not have been possible without the dedication of our board and staff. I am genuinely grateful for your time and expertise in advancing the African Center’s mission. 
+Together, we can build a future where the principles of justice, the rule of law, good governance and sustainable development prevail.I look forward to continuing our collective efforts in the years ahead.
+
+Sincerely,
+Juliet Ibekaku-Nwagwu
+Founder & Executive Director, African Center for Governance Asset Recovery and Sustainable Development
+
+# About Us
+**The African Center for Governance, Asset Recovery, and Sustainable Development (“the African Center”) is an independent civil society organization headquartered in Abuja, Nigeria.** The Center works with national governments, international and regional organizations, and non-governmental organizations to promote good governance, sustainable development, and the rule of law. We work to foster national and international cooperation in the recovery and return of proceeds of corruption and illicit financial flow to fill funding gaps for implementing the SDGs. The African Center shares the view that returning stolen assets will enable countries in the global South, particularly Africa, to build a foundation for prosperity, and good governance.
+The African Center fosters national and international cooperation in the recovery and return of the proceeds of criminal activity to enable countries to address inequality, reduce poverty, innovate, and build sustainable partnerships. We aim to promote good governance, sustainable development, and the rule of law. This is achieved through training, research, program management, strategy development, international cooperation, and promoting anti-corruption and anti-money laundering regulatory compliance.
+
+## Capacity Statement 
+Since 2022, the African Center has advanced governance, asset recovery transparency, and justice sector accountability. Partnering with global and regional organizations, we have trained legal and financial professionals across Africa in asset tracing and financial crime management.
+Our work focuses on anti-corruption, anti-money laundering,  counter-financing of terrorism and countering proliferation financing(AML/CFT/CPF). Collaborating with the Nigerian Bar Association (NBA) and Nigerian Financial Intelligence Unit, we enhance compliance through research, risk assessment, and policy guidance. Our Executive Director serves on key NBA committees to strengthen legal sector compliance.
+We support Nigerian agencies in addressing FATF grey list deficiencies through training and international cooperation efforts with the Global South Dialogue on Economic Crime (GSDEC). To sustain research and training, we have agreements with institutions like Nigerian Institute of Advanced Legal Studies (NIALS),Digital Evidence Forensics and Compliance Institute( DEFCI), and the Nigerian Bar Association (NBA).
+Our research covers illicit financial flows, justice reforms, and asset recovery, aligning with Agenda 2063. We have published a compendium on anti-corruption best practices and are working with Nigeria’s Ministry of Justice on UN anti-corruption initiatives. Our Open Asset Database maps African asset recovery data.
+We partner with UNODC, the World Bank, and the UNCAC Coalition to shape an African-centric asset recovery approach. In collaboration with IBLF Global, we are developing a CSO Advocacy Toolkit under Transparency International’s REAP project and advising the African Development Bank on asset management.
+
+
+
+
+
